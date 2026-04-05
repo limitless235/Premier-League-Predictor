@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST,Season
+18/08/01,Charlton,Everton,1,2,A,8,12,4,9,0102
+18/08/01,Derby,Blackburn,2,1,H,7,14,3,4,0102
+18/08/01,Leeds,Southampton,2,0,H,16,11,6,6,0102
+18/08/01,Leicester,Bolton,0,5,A,6,18,1,8,0102
+18/08/01,Liverpool,West Ham,2,1,H,9,3,6,3,0102
+18/08/01,Middlesbrough,Arsenal,0,4,A,6,14,2,9,0102
+18/08/01,Sunderland,Ipswich,1,0,H,12,10,6,4,0102
+18/08/01,Tottenham,Aston Villa,0,0,D,8,11,2,2,0102
+19/08/01,Chelsea,Newcastle,1,1,D,13,9,8,3,0102
+19/08/01,Man United,Fulham,3,2,H,12,8,6,5,0102
+20/08/01,Everton,Tottenham,1,1,D,18,7,11,2,0102
+21/08/01,Arsenal,Leeds,1,2,A,14,5,5,2,0102
+21/08/01,Bolton,Middlesbrough,1,0,H,13,11,3,4,0102
+21/08/01,Ipswich,Derby,3,1,H,30,2,18,2,0102
+22/08/01,Blackburn,Man United,2,2,D,12,18,5,7,0102
+22/08/01,Fulham,Sunderland,2,0,H,13,8,5,3,0102
+25/08/01,Arsenal,Leicester,4,0,H,20,2,11,0,0102
+25/08/01,Blackburn,Tottenham,2,1,H,12,12,7,5,0102
+25/08/01,Everton,Middlesbrough,2,0,H,7,5,5,1,0102
+25/08/01,Fulham,Derby,0,0,D,10,9,1,2,0102
+25/08/01,Ipswich,Charlton,0,1,A,17,13,11,6,0102
+25/08/01,Southampton,Chelsea,0,2,A,8,7,2,2,0102
+25/08/01,West Ham,Leeds,0,0,D,11,10,3,4,0102
+26/08/01,Aston Villa,Man United,1,1,D,11,13,4,7,0102
+26/08/01,Newcastle,Sunderland,1,1,D,16,6,6,3,0102
+27/08/01,Bolton,Liverpool,2,1,H,11,18,4,7,0102
+08/09/01,Chelsea,Arsenal,1,1,D,10,14,5,11,0102
+08/09/01,Derby,West Ham,0,0,D,6,10,3,4,0102
+08/09/01,Leeds,Bolton,0,0,D,11,8,6,4,0102
+08/09/01,Leicester,Ipswich,1,1,D,12,13,7,9,0102
+08/09/01,Liverpool,Aston Villa,1,3,A,12,10,7,7,0102
+08/09/01,Man United,Everton,4,1,H,18,5,9,1,0102
+08/09/01,Middlesbrough,Newcastle,1,4,A,8,8,4,5,0102
+08/09/01,Sunderland,Blackburn,1,0,H,11,10,4,4,0102
+09/09/01,Charlton,Fulham,1,1,D,7,16,4,5,0102
+09/09/01,Tottenham,Southampton,2,0,H,18,15,6,6,0102
+15/09/01,Bolton,Southampton,0,1,A,4,10,0,6,0102
+15/09/01,Derby,Leicester,2,3,A,15,12,9,6,0102
+15/09/01,Everton,Liverpool,1,3,A,11,13,5,9,0102
+15/09/01,Fulham,Arsenal,1,3,A,6,11,3,6,0102
+15/09/01,Middlesbrough,West Ham,2,0,H,13,5,5,1,0102
+15/09/01,Newcastle,Man United,4,3,H,15,10,8,7,0102
+16/09/01,Aston Villa,Sunderland,0,0,D,8,4,3,2,0102
+16/09/01,Charlton,Leeds,0,2,A,9,20,4,9,0102
+16/09/01,Ipswich,Blackburn,1,1,D,20,6,10,4,0102
+16/09/01,Tottenham,Chelsea,2,3,A,11,6,4,4,0102
+17/09/01,Leicester,Middlesbrough,1,2,A,10,13,5,6,0102
+19/09/01,Blackburn,Bolton,1,1,D,20,10,8,5,0102
+19/09/01,Sunderland,Tottenham,1,2,A,14,13,8,6,0102
+22/09/01,Arsenal,Bolton,1,1,D,23,7,12,4,0102
+22/09/01,Blackburn,Everton,1,0,H,13,14,6,7,0102
+22/09/01,Leicester,Fulham,0,0,D,12,6,5,2,0102
+22/09/01,Liverpool,Tottenham,1,0,H,14,11,6,5,0102
+22/09/01,Man United,Ipswich,4,0,H,13,8,8,1,0102
+22/09/01,Sunderland,Charlton,2,2,D,22,13,13,5,0102
+23/09/01,Chelsea,Middlesbrough,2,2,D,8,4,3,2,0102
+23/09/01,Leeds,Derby,3,0,H,19,9,10,2,0102
+23/09/01,West Ham,Newcastle,3,0,H,17,8,9,5,0102
+24/09/01,Southampton,Aston Villa,1,3,A,12,11,4,5,0102
+26/09/01,Newcastle,Leicester,1,0,H,12,2,6,2,0102
+29/09/01,Bolton,Sunderland,0,2,A,15,14,8,7,0102
+29/09/01,Charlton,Leicester,2,0,H,14,9,12,6,0102
+29/09/01,Derby,Arsenal,0,2,A,7,11,5,6,0102
+29/09/01,Everton,West Ham,5,0,H,18,15,11,5,0102
+29/09/01,Middlesbrough,Southampton,1,3,A,5,8,3,4,0102
+29/09/01,Tottenham,Man United,3,5,A,7,18,3,9,0102
+30/09/01,Aston Villa,Blackburn,2,0,H,5,4,2,1,0102
+30/09/01,Fulham,Chelsea,1,1,D,4,9,1,3,0102
+30/09/01,Ipswich,Leeds,1,2,A,11,11,6,7,0102
+30/09/01,Newcastle,Liverpool,0,2,A,7,6,3,2,0102
+13/10/01,Bolton,Newcastle,0,4,A,9,15,3,8,0102
+13/10/01,Charlton,Middlesbrough,0,0,D,8,11,4,4,0102
+13/10/01,Chelsea,Leicester,2,0,H,22,8,10,2,0102
+13/10/01,Ipswich,Everton,0,0,D,7,9,4,6,0102
+13/10/01,Liverpool,Leeds,1,1,D,10,9,2,3,0102
+13/10/01,Southampton,Arsenal,0,2,A,3,21,0,8,0102
+13/10/01,Sunderland,Man United,1,3,A,15,13,7,8,0102
+14/10/01,Aston Villa,Fulham,2,0,H,9,11,3,3,0102
+14/10/01,Blackburn,West Ham,7,1,H,24,12,14,5,0102
+15/10/01,Tottenham,Derby,3,1,H,24,8,12,6,0102
+20/10/01,Arsenal,Blackburn,3,3,D,18,9,11,5,0102
+20/10/01,Derby,Charlton,1,1,D,10,11,5,7,0102
+20/10/01,Everton,Aston Villa,3,2,H,10,11,6,3,0102
+20/10/01,Leicester,Liverpool,1,4,A,8,12,3,6,0102
+20/10/01,Man United,Bolton,1,2,A,13,7,6,2,0102
+20/10/01,West Ham,Southampton,2,0,H,20,10,8,3,0102
+21/10/01,Fulham,Ipswich,1,1,D,7,6,3,2,0102
+21/10/01,Leeds,Chelsea,0,0,D,18,14,12,6,0102
+21/10/01,Newcastle,Tottenham,0,2,A,8,9,3,3,0102
+22/10/01,Middlesbrough,Sunderland,2,0,H,7,15,5,5,0102
+24/10/01,Aston Villa,Charlton,1,0,H,16,4,6,0,0102
+24/10/01,Southampton,Ipswich,3,3,D,11,10,6,5,0102
+24/10/01,West Ham,Chelsea,2,1,H,10,15,4,5,0102
+27/10/01,Aston Villa,Bolton,3,2,H,10,9,7,5,0102
+27/10/01,Charlton,Liverpool,0,2,A,14,5,4,4,0102
+27/10/01,Everton,Newcastle,1,3,A,18,6,8,4,0102
+27/10/01,Fulham,Southampton,2,1,H,19,11,5,5,0102
+27/10/01,Man United,Leeds,1,1,D,18,12,6,6,0102
+27/10/01,Sunderland,Arsenal,1,1,D,10,14,6,5,0102
+27/10/01,Tottenham,Middlesbrough,2,1,H,10,8,4,3,0102
+28/10/01,Derby,Chelsea,1,1,D,13,19,8,8,0102
+28/10/01,Ipswich,West Ham,2,3,A,12,12,8,4,0102
+29/10/01,Blackburn,Leicester,0,0,D,12,10,3,5,0102
+03/11/01,Bolton,Everton,2,2,D,16,11,8,6,0102
+03/11/01,Leicester,Sunderland,1,0,H,9,11,5,4,0102
+03/11/01,Middlesbrough,Derby,5,1,H,11,6,7,4,0102
+03/11/01,Newcastle,Aston Villa,3,0,H,17,10,7,2,0102
+03/11/01,Southampton,Blackburn,1,2,A,16,6,6,5,0102
+03/11/01,West Ham,Fulham,0,2,A,12,14,6,6,0102
+04/11/01,Arsenal,Charlton,2,4,A,26,9,12,4,0102
+04/11/01,Chelsea,Ipswich,2,1,H,15,7,6,3,0102
+04/11/01,Leeds,Tottenham,2,1,H,20,11,9,4,0102
+04/11/01,Liverpool,Man United,3,1,H,8,10,5,3,0102
+17/11/01,Aston Villa,Middlesbrough,0,0,D,8,11,5,2,0102
+17/11/01,Blackburn,Liverpool,1,1,D,5,5,5,2,0102
+17/11/01,Derby,Southampton,1,0,H,9,8,3,4,0102
+17/11/01,Fulham,Newcastle,3,1,H,8,7,8,1,0102
+17/11/01,Man United,Leicester,2,0,H,14,8,7,4,0102
+17/11/01,Tottenham,Arsenal,1,1,D,9,5,4,5,0102
+18/11/01,Everton,Chelsea,0,0,D,12,14,4,7,0102
+18/11/01,Ipswich,Bolton,1,2,A,8,10,4,5,0102
+18/11/01,Sunderland,Leeds,2,0,H,12,12,5,6,0102
+19/11/01,Charlton,West Ham,4,4,D,18,11,9,7,0102
+24/11/01,Bolton,Fulham,0,0,D,11,7,5,1,0102
+24/11/01,Chelsea,Blackburn,0,0,D,14,8,8,2,0102
+24/11/01,Leicester,Everton,0,0,D,8,8,7,3,0102
+24/11/01,Newcastle,Derby,1,0,H,17,8,10,4,0102
+24/11/01,Southampton,Charlton,1,0,H,15,7,8,4,0102
+24/11/01,West Ham,Tottenham,0,1,A,10,10,6,3,0102
+25/11/01,Arsenal,Man United,3,1,H,14,2,10,1,0102
+25/11/01,Leeds,Aston Villa,1,1,D,16,15,9,8,0102
+25/11/01,Liverpool,Sunderland,1,0,H,7,12,3,5,0102
+25/11/01,Middlesbrough,Ipswich,0,0,D,9,11,4,3,0102
+01/12/01,Aston Villa,Leicester,0,2,A,11,6,7,4,0102
+01/12/01,Blackburn,Middlesbrough,0,1,A,14,8,4,5,0102
+01/12/01,Charlton,Newcastle,1,1,D,15,12,7,6,0102
+01/12/01,Derby,Liverpool,0,1,A,12,7,4,5,0102
+01/12/01,Ipswich,Arsenal,0,2,A,7,7,2,3,0102
+01/12/01,Man United,Chelsea,0,3,A,12,14,5,5,0102
+01/12/01,Sunderland,West Ham,1,0,H,15,10,6,5,0102
+02/12/01,Everton,Southampton,2,0,H,13,10,7,4,0102
+02/12/01,Fulham,Leeds,0,0,D,13,6,5,5,0102
+03/12/01,Tottenham,Bolton,3,2,H,14,9,6,6,0102
+05/12/01,Chelsea,Charlton,0,1,A,20,11,5,5,0102
+05/12/01,West Ham,Aston Villa,1,1,D,14,12,8,5,0102
+08/12/01,Charlton,Tottenham,3,1,H,11,14,6,5,0102
+08/12/01,Derby,Bolton,1,0,H,16,6,6,3,0102
+08/12/01,Fulham,Everton,2,0,H,10,5,4,3,0102
+08/12/01,Leicester,Southampton,0,4,A,8,10,4,5,0102
+08/12/01,Liverpool,Middlesbrough,2,0,H,8,4,5,2,0102
+08/12/01,Man United,West Ham,0,1,A,17,8,6,4,0102
+09/12/01,Arsenal,Aston Villa,3,2,H,15,8,8,5,0102
+09/12/01,Blackburn,Leeds,1,2,A,14,10,6,7,0102
+09/12/01,Ipswich,Newcastle,0,1,A,9,7,5,5,0102
+09/12/01,Sunderland,Chelsea,0,0,D,11,10,6,3,0102
+12/12/01,Liverpool,Fulham,0,0,D,16,8,7,4,0102
+12/12/01,Man United,Derby,5,0,H,20,8,11,5,0102
+15/12/01,Bolton,Charlton,0,0,D,13,6,6,4,0102
+15/12/01,Everton,Derby,1,0,H,22,3,12,2,0102
+15/12/01,Middlesbrough,Man United,0,1,A,6,14,3,5,0102
+15/12/01,Newcastle,Blackburn,2,1,H,15,8,6,6,0102
+15/12/01,Southampton,Sunderland,2,0,H,14,5,5,3,0102
+15/12/01,Tottenham,Fulham,4,0,H,10,12,6,1,0102
+15/12/01,West Ham,Arsenal,1,1,D,8,16,4,6,0102
+16/12/01,Chelsea,Liverpool,4,0,H,16,16,10,8,0102
+16/12/01,Leeds,Leicester,2,2,D,14,5,7,4,0102
+17/12/01,Aston Villa,Ipswich,2,1,H,10,14,5,3,0102
+18/12/01,Arsenal,Newcastle,1,3,A,19,4,8,3,0102
+19/12/01,Leeds,Everton,3,2,H,18,8,7,3,0102
+22/12/01,Charlton,Blackburn,0,2,A,10,7,2,4,0102
+22/12/01,Derby,Aston Villa,3,1,H,10,10,7,3,0102
+22/12/01,Leeds,Newcastle,3,4,A,15,13,6,7,0102
+22/12/01,Leicester,West Ham,1,1,D,10,7,4,3,0102
+22/12/01,Man United,Southampton,6,1,H,12,6,7,3,0102
+22/12/01,Sunderland,Everton,1,0,H,10,8,5,5,0102
+22/12/01,Tottenham,Ipswich,1,2,A,12,12,6,4,0102
+23/12/01,Chelsea,Bolton,5,1,H,16,10,5,4,0102
+23/12/01,Liverpool,Arsenal,1,2,A,15,11,2,3,0102
+26/12/01,Arsenal,Chelsea,2,1,H,11,9,7,3,0102
+26/12/01,Aston Villa,Liverpool,1,2,A,10,12,5,6,0102
+26/12/01,Blackburn,Sunderland,0,3,A,7,13,3,7,0102
+26/12/01,Bolton,Leeds,0,3,A,17,8,2,5,0102
+26/12/01,Everton,Man United,0,2,A,10,11,5,7,0102
+26/12/01,Fulham,Charlton,0,0,D,10,8,4,3,0102
+26/12/01,Ipswich,Leicester,2,0,H,12,3,6,1,0102
+26/12/01,Newcastle,Middlesbrough,3,0,H,18,5,9,2,0102
+26/12/01,Southampton,Tottenham,1,0,H,6,10,5,6,0102
+26/12/01,West Ham,Derby,4,0,H,14,6,9,3,0102
+29/12/01,Arsenal,Middlesbrough,2,1,H,16,3,6,2,0102
+29/12/01,Aston Villa,Tottenham,1,1,D,12,7,7,4,0102
+29/12/01,Blackburn,Derby,0,1,A,16,7,5,5,0102
+29/12/01,Bolton,Leicester,2,2,D,5,14,3,8,0102
+29/12/01,Everton,Charlton,0,3,A,7,8,3,4,0102
+29/12/01,Ipswich,Sunderland,5,0,H,13,10,8,3,0102
+29/12/01,Newcastle,Chelsea,1,2,A,10,12,7,8,0102
+29/12/01,Southampton,Leeds,0,1,A,12,13,6,7,0102
+29/12/01,West Ham,Liverpool,1,1,D,17,12,8,8,0102
+30/12/01,Fulham,Man United,2,3,A,17,19,9,10,0102
+01/01/02,Charlton,Ipswich,3,2,H,13,6,8,4,0102
+01/01/02,Chelsea,Southampton,2,4,A,13,8,6,5,0102
+01/01/02,Leeds,West Ham,3,0,H,12,9,11,4,0102
+01/01/02,Liverpool,Bolton,1,1,D,15,7,5,6,0102
+01/01/02,Middlesbrough,Everton,1,0,H,10,11,4,3,0102
+01/01/02,Sunderland,Aston Villa,1,1,D,18,8,11,4,0102
+01/01/02,Tottenham,Blackburn,1,0,H,12,11,7,7,0102
+02/01/02,Derby,Fulham,0,1,A,10,8,0,4,0102
+02/01/02,Man United,Newcastle,3,1,H,11,11,7,6,0102
+09/01/02,Southampton,Liverpool,2,0,H,9,7,7,4,0102
+12/01/02,Aston Villa,Derby,2,1,H,9,3,5,1,0102
+12/01/02,Blackburn,Charlton,4,1,H,18,9,11,6,0102
+12/01/02,Bolton,Chelsea,2,2,D,11,9,5,4,0102
+12/01/02,Everton,Sunderland,1,0,H,9,6,5,1,0102
+12/01/02,Fulham,Middlesbrough,2,1,H,19,8,11,4,0102
+12/01/02,Ipswich,Tottenham,2,1,H,8,11,5,6,0102
+12/01/02,Newcastle,Leeds,3,1,H,16,8,8,6,0102
+12/01/02,West Ham,Leicester,1,0,H,11,5,7,3,0102
+13/01/02,Arsenal,Liverpool,1,1,D,11,5,4,2,0102
+13/01/02,Southampton,Man United,1,3,A,12,11,4,7,0102
+19/01/02,Derby,Ipswich,1,3,A,13,13,5,5,0102
+19/01/02,Leicester,Newcastle,0,0,D,8,9,4,3,0102
+19/01/02,Liverpool,Southampton,1,1,D,9,6,5,2,0102
+19/01/02,Man United,Blackburn,2,1,H,16,10,6,4,0102
+19/01/02,Middlesbrough,Bolton,1,1,D,11,7,3,4,0102
+19/01/02,Sunderland,Fulham,1,1,D,16,9,8,2,0102
+19/01/02,Tottenham,Everton,1,1,D,12,4,4,2,0102
+20/01/02,Chelsea,West Ham,5,1,H,22,5,15,4,0102
+20/01/02,Leeds,Arsenal,1,1,D,6,9,1,6,0102
+21/01/02,Charlton,Aston Villa,1,2,A,9,7,5,3,0102
+22/01/02,Man United,Liverpool,0,1,A,12,9,3,5,0102
+23/01/02,Leicester,Arsenal,1,3,A,3,13,2,8,0102
+29/01/02,Bolton,Man United,0,4,A,15,21,4,12,0102
+29/01/02,Charlton,Derby,1,0,H,11,3,3,2,0102
+29/01/02,Sunderland,Middlesbrough,0,1,A,18,6,8,2,0102
+30/01/02,Aston Villa,Everton,0,0,D,8,6,2,0,0102
+30/01/02,Blackburn,Arsenal,2,3,A,10,9,4,5,0102
+30/01/02,Chelsea,Leeds,2,0,H,14,6,3,4,0102
+30/01/02,Ipswich,Fulham,1,0,H,13,7,8,3,0102
+30/01/02,Liverpool,Leicester,1,0,H,11,3,4,0,0102
+30/01/02,Southampton,West Ham,2,0,H,10,11,8,4,0102
+30/01/02,Tottenham,Newcastle,1,3,A,8,10,6,4,0102
+02/02/02,Arsenal,Southampton,1,1,D,14,4,4,1,0102
+02/02/02,Derby,Tottenham,1,0,H,12,7,7,3,0102
+02/02/02,Everton,Ipswich,1,2,A,9,5,4,3,0102
+02/02/02,Fulham,Aston Villa,0,0,D,9,15,3,9,0102
+02/02/02,Leicester,Chelsea,2,3,A,16,9,9,5,0102
+02/02/02,Man United,Sunderland,4,1,H,18,6,8,3,0102
+02/02/02,Newcastle,Bolton,3,2,H,10,10,6,6,0102
+02/02/02,West Ham,Blackburn,2,0,H,13,14,6,2,0102
+03/02/02,Leeds,Liverpool,0,4,A,13,11,5,7,0102
+03/02/02,Middlesbrough,Charlton,0,0,D,7,8,3,2,0102
+09/02/02,Aston Villa,Chelsea,1,1,D,7,9,3,3,0102
+09/02/02,Bolton,West Ham,1,0,H,4,9,3,2,0102
+09/02/02,Derby,Sunderland,0,1,A,9,8,4,4,0102
+09/02/02,Fulham,Blackburn,2,0,H,13,10,8,6,0102
+09/02/02,Ipswich,Liverpool,0,6,A,4,14,2,11,0102
+09/02/02,Middlesbrough,Leeds,2,2,D,10,10,5,6,0102
+09/02/02,Newcastle,Southampton,3,1,H,16,11,10,4,0102
+09/02/02,Tottenham,Leicester,2,1,H,12,7,4,6,0102
+10/02/02,Charlton,Man United,0,2,A,9,10,1,5,0102
+10/02/02,Everton,Arsenal,0,1,A,6,6,2,3,0102
+19/02/02,Middlesbrough,Fulham,2,1,H,11,10,5,5,0102
+23/02/02,Arsenal,Fulham,4,1,H,16,6,10,5,0102
+23/02/02,Leicester,Derby,0,3,A,6,5,3,4,0102
+23/02/02,Liverpool,Everton,1,1,D,13,6,5,3,0102
+23/02/02,Man United,Aston Villa,1,0,H,14,4,4,2,0102
+23/02/02,Southampton,Bolton,0,0,D,8,4,2,2,0102
+23/02/02,West Ham,Middlesbrough,1,0,H,12,7,8,4,0102
+24/02/02,Leeds,Charlton,0,0,D,14,9,2,2,0102
+24/02/02,Sunderland,Newcastle,0,1,A,11,13,4,5,0102
+02/03/02,Aston Villa,West Ham,2,1,H,10,4,7,3,0102
+02/03/02,Bolton,Blackburn,1,1,D,11,6,5,3,0102
+02/03/02,Charlton,Chelsea,2,1,H,9,4,6,2,0102
+02/03/02,Fulham,Liverpool,0,2,A,11,10,5,4,0102
+02/03/02,Ipswich,Southampton,1,3,A,8,5,4,4,0102
+02/03/02,Middlesbrough,Leicester,1,0,H,11,6,7,1,0102
+02/03/02,Newcastle,Arsenal,0,2,A,13,9,6,6,0102
+02/03/02,Tottenham,Sunderland,2,1,H,17,7,7,2,0102
+03/03/02,Derby,Man United,2,2,D,12,22,7,9,0102
+03/03/02,Everton,Leeds,0,0,D,12,7,7,3,0102
+05/03/02,Arsenal,Derby,1,0,H,17,0,8,0,0102
+05/03/02,Blackburn,Aston Villa,3,0,H,21,6,9,4,0102
+05/03/02,Sunderland,Bolton,1,0,H,11,10,4,4,0102
+06/03/02,Chelsea,Fulham,3,2,H,14,12,8,6,0102
+06/03/02,Leeds,Ipswich,2,0,H,11,9,7,3,0102
+06/03/02,Liverpool,Newcastle,3,0,H,23,11,11,2,0102
+06/03/02,Man United,Tottenham,4,0,H,25,7,14,2,0102
+06/03/02,Southampton,Middlesbrough,1,1,D,9,4,4,1,0102
+06/03/02,West Ham,Everton,1,0,H,16,6,6,2,0102
+09/03/02,Leicester,Charlton,1,1,D,10,11,5,6,0102
+13/03/02,Blackburn,Ipswich,2,1,H,11,6,7,3,0102
+13/03/02,Chelsea,Tottenham,4,0,H,24,5,13,0,0102
+16/03/02,Bolton,Derby,1,3,A,6,3,2,2,0102
+16/03/02,Chelsea,Sunderland,4,0,H,12,8,7,3,0102
+16/03/02,Everton,Fulham,2,1,H,5,11,2,5,0102
+16/03/02,Middlesbrough,Liverpool,1,2,A,15,8,5,7,0102
+16/03/02,Newcastle,Ipswich,2,2,D,20,7,8,4,0102
+16/03/02,Southampton,Leicester,2,2,D,9,6,5,4,0102
+16/03/02,West Ham,Man United,3,5,A,10,14,3,9,0102
+17/03/02,Aston Villa,Arsenal,1,2,A,8,6,3,3,0102
+17/03/02,Leeds,Blackburn,3,1,H,18,15,8,8,0102
+18/03/02,Tottenham,Charlton,0,1,A,13,10,5,4,0102
+23/03/02,Charlton,Bolton,1,2,A,6,6,4,4,0102
+23/03/02,Derby,Everton,3,4,A,12,8,4,7,0102
+23/03/02,Ipswich,Aston Villa,0,0,D,13,6,3,2,0102
+23/03/02,Leicester,Leeds,0,2,A,11,12,5,8,0102
+23/03/02,Man United,Middlesbrough,0,1,A,18,5,4,3,0102
+23/03/02,Sunderland,Southampton,1,1,D,10,14,7,8,0102
+24/03/02,Fulham,Tottenham,0,2,A,9,11,3,4,0102
+24/03/02,Liverpool,Chelsea,1,0,H,8,10,4,1,0102
+29/03/02,Newcastle,Everton,6,2,H,18,7,9,4,0102
+30/03/02,Arsenal,Sunderland,3,0,H,13,13,10,5,0102
+30/03/02,Bolton,Aston Villa,3,2,H,9,9,6,3,0102
+30/03/02,Chelsea,Derby,2,1,H,13,2,6,1,0102
+30/03/02,Leeds,Man United,3,4,A,16,13,11,7,0102
+30/03/02,Leicester,Blackburn,2,1,H,9,12,6,4,0102
+30/03/02,Liverpool,Charlton,2,0,H,14,6,8,1,0102
+30/03/02,Middlesbrough,Tottenham,1,1,D,8,10,3,6,0102
+30/03/02,Southampton,Fulham,1,1,D,11,7,6,2,0102
+30/03/02,West Ham,Ipswich,3,1,H,18,12,11,5,0102
+01/04/02,Blackburn,Southampton,2,0,H,7,5,4,2,0102
+01/04/02,Charlton,Arsenal,0,3,A,5,12,5,8,0102
+01/04/02,Derby,Middlesbrough,0,1,A,7,6,4,1,0102
+01/04/02,Everton,Bolton,3,1,H,10,12,5,3,0102
+01/04/02,Fulham,West Ham,0,1,A,10,3,2,2,0102
+01/04/02,Ipswich,Chelsea,0,0,D,9,7,5,2,0102
+01/04/02,Sunderland,Leicester,2,1,H,12,9,9,7,0102
+01/04/02,Tottenham,Leeds,2,1,H,8,17,5,8,0102
+02/04/02,Aston Villa,Newcastle,1,1,D,16,6,7,1,0102
+06/04/02,Arsenal,Tottenham,2,1,H,13,2,5,2,0102
+06/04/02,Bolton,Ipswich,4,1,H,9,9,5,4,0102
+06/04/02,Chelsea,Everton,3,0,H,19,12,8,6,0102
+06/04/02,Leicester,Man United,0,1,A,13,13,3,4,0102
+06/04/02,Middlesbrough,Aston Villa,2,1,H,7,12,3,9,0102
+06/04/02,Southampton,Derby,2,0,H,10,8,5,3,0102
+06/04/02,West Ham,Charlton,2,0,H,11,18,4,8,0102
+07/04/02,Leeds,Sunderland,2,0,H,14,8,7,0,0102
+08/04/02,Newcastle,Fulham,1,1,D,7,5,4,3,0102
+10/04/02,Blackburn,Chelsea,0,0,D,15,8,7,2,0102
+13/04/02,Aston Villa,Leeds,0,1,A,10,5,5,2,0102
+13/04/02,Charlton,Southampton,1,1,D,8,10,5,6,0102
+13/04/02,Derby,Newcastle,2,3,A,6,15,2,9,0102
+13/04/02,Everton,Leicester,2,2,D,16,6,8,2,0102
+13/04/02,Sunderland,Liverpool,0,1,A,10,10,5,5,0102
+13/04/02,Tottenham,West Ham,1,1,D,16,12,6,5,0102
+20/04/02,Bolton,Tottenham,1,1,D,13,10,6,4,0102
+20/04/02,Chelsea,Man United,0,3,A,7,6,2,5,0102
+20/04/02,Leeds,Fulham,0,1,A,9,7,4,4,0102
+20/04/02,Leicester,Aston Villa,2,2,D,10,16,7,11,0102
+20/04/02,Liverpool,Derby,2,0,H,13,4,5,1,0102
+20/04/02,Middlesbrough,Blackburn,1,3,A,8,9,2,5,0102
+20/04/02,Newcastle,Charlton,3,0,H,12,4,8,1,0102
+20/04/02,Southampton,Everton,0,1,A,6,7,0,5,0102
+20/04/02,West Ham,Sunderland,3,0,H,16,10,7,5,0102
+21/04/02,Arsenal,Ipswich,2,0,H,20,7,8,2,0102
+23/04/02,Blackburn,Newcastle,2,2,D,12,21,5,9,0102
+23/04/02,Fulham,Bolton,3,0,H,12,7,7,2,0102
+24/04/02,Arsenal,West Ham,2,0,H,20,5,9,1,0102
+24/04/02,Ipswich,Middlesbrough,1,0,H,17,13,7,4,0102
+27/04/02,Aston Villa,Southampton,2,1,H,8,7,5,3,0102
+27/04/02,Charlton,Sunderland,2,2,D,11,6,7,3,0102
+27/04/02,Derby,Leeds,0,1,A,9,10,1,4,0102
+27/04/02,Fulham,Leicester,0,0,D,9,4,2,2,0102
+27/04/02,Ipswich,Man United,0,1,A,12,16,4,8,0102
+27/04/02,Middlesbrough,Chelsea,0,2,A,10,14,2,8,0102
+27/04/02,Newcastle,West Ham,3,1,H,16,11,5,5,0102
+27/04/02,Tottenham,Liverpool,1,0,H,11,11,5,7,0102
+28/04/02,Everton,Blackburn,1,2,A,10,14,4,6,0102
+29/04/02,Bolton,Arsenal,0,2,A,7,8,1,4,0102
+08/05/02,Liverpool,Blackburn,4,3,H,15,9,7,7,0102
+08/05/02,Man United,Arsenal,0,1,A,9,5,3,2,0102
+11/05/02,Arsenal,Everton,4,3,H,17,14,6,6,0102
+11/05/02,Blackburn,Fulham,3,0,H,17,6,13,2,0102
+11/05/02,Chelsea,Aston Villa,1,3,A,15,15,6,11,0102
+11/05/02,Leeds,Middlesbrough,1,0,H,19,7,5,3,0102
+11/05/02,Leicester,Tottenham,2,1,H,10,13,6,6,0102
+11/05/02,Liverpool,Ipswich,5,0,H,15,7,8,2,0102
+11/05/02,Man United,Charlton,0,0,D,13,11,6,6,0102
+11/05/02,Southampton,Newcastle,3,1,H,7,16,3,8,0102
+11/05/02,Sunderland,Derby,1,1,D,26,5,12,3,0102
+11/05/02,West Ham,Bolton,2,1,H,17,10,10,4,0102
