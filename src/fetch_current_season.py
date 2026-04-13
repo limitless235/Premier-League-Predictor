@@ -3,6 +3,7 @@ import numpy as np
 import requests
 from pathlib import Path
 import io
+import argparse
 
 name_map = {
     "Man City": "Manchester City",
@@ -19,7 +20,7 @@ name_map = {
     "Sunderland AFC": "Sunderland"
 }
 
-def fetch_2526_data():
+def fetch_2526_data(max_gw=None):
     url = "https://fixturedownload.com/download/epl-2025-GMTStandardTime.csv"
     headers = {"User-Agent": "Mozilla/5.0"}
     
@@ -30,7 +31,17 @@ def fetch_2526_data():
     df['AwayTeam'] = df['Away Team'].replace(name_map)
     df['Season'] = '2526'
     
+    # --- MANUAL SCORE OVERRIDES ---
+    # fixturedownload.com is missing this completed GW32 match
+    override_idx = (df['HomeTeam'] == 'Manchester United') & (df['AwayTeam'] == 'Leeds') & (df['Round Number'].astype(str) == '32')
+    df.loc[override_idx, 'Result'] = '1 - 2'
+    # ------------------------------
+    
     df['is_fixture'] = df['Result'].isna() | (df['Result'].astype(str).str.strip() == '')
+    
+    if max_gw is not None:
+        df.loc[df['Round Number'] > max_gw, 'is_fixture'] = True
+        df.loc[df['Round Number'] > max_gw, 'Result'] = np.nan
     
     scores = df['Result'].str.extract(r'(\d+)\s*-\s*(\d+)')
     df['FTHG'] = pd.to_numeric(scores[0])
@@ -62,4 +73,8 @@ def fetch_2526_data():
     print(f"Unique teams: {teams}")
 
 if __name__ == "__main__":
-    fetch_2526_data()
+    parser = argparse.ArgumentParser(description="Fetch current season data")
+    parser.add_argument("--max-gw", type=int, default=None, help="Max gameweek to include actual results for (e.g., 32). Games after this will be treated as fixtures to simulate.")
+    args = parser.parse_args()
+    
+    fetch_2526_data(max_gw=args.max_gw)
