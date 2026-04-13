@@ -10,9 +10,9 @@ This project aims to provide data-driven insights into the Premier League by mod
 
 - **Dixon-Coles Model**: A sophisticated Poisson-based model that accounts for the low-scoring nature of football by introducing a dependency parameter ($\rho$) for 0-0, 1-0, 0-1, and 1-1 results.
 - **Monte Carlo Simulations**: Runs 10,000+ simulations of the remaining fixtures to provide probabilistic forecasts for final league positions and points.
-- **Dynamic Team Ratings**: Learns time-decayed attack and defense ratings for all 20 teams based on historical and current season data.
+- **Dynamic Team Ratings & Form**: Evaluates short and long-term momentum. Core attacking and defensive traits are isolated using a rolling multi-season sliding window, alongside 5-match and 10-match rolling form features (goals, xG, points).
 - **xG Integration**: Scrapes Expected Goals (xG) data from **Understat** to better reflect performance quality beyond just final scores.
-- **ELO Rating System**: Includes a custom ELO implementation to track team momentum and relative strength over time.
+- **ELO Rating System**: A custom implementation scaled by a Margin of Victory multiplier and inter-season regression to track zero-sum relative strength over time.
 - **Automated Data Fetching**: Scripts to fetch the latest results and upcoming fixtures for the 2025/26 season.
 
 ##  Project Structure
@@ -50,6 +50,17 @@ Once the model is fitted on historical data, it predicts the outcome probabiliti
 2. Updates the league table for that specific simulation.
 3. Repeats this process 10,000 times.
 4. Aggregates the results to find the probability of various outcomes (e.g., "Arsenal has a 12% chance of winning the league").
+
+### 3. Dynamic Team Ratings & Form Tracking
+A team's strength and tactical setup evolve significantly across years. To prevent five-year-old form from dragging down current predictions, the core Dixon-Coles parameters are kept "dynamic" utilizing a sliding multi-season window (e.g., heavily weighting the most recent 3 seasons of play). Concurrently, the data pipeline engineers 5-match and 10-match rolling averages (for points earned, goals scored/conceded, clean sheets, and Expected Goals) to capture immediate tactical trends, injuries, or managerial changes influencing short-term form.
+
+### 4. Custom ELO Rating System
+To distill a team's true relative strength into a single continuous metric, a custom zero-sum ELO system is strictly calculated:
+- **Initialization**: Every team starts at a baseline rating of 1500.
+- **Expected Score**: Win probability is determined by the logistic curve $E_A = 1 / (1 + 10^{(R_B - R_A)/400})$.
+- **Margin Multiplier**: Standard ELO models only care about who won. Our custom implementation scales the rating transfer by a Goal Difference multiplier: $M = \ln(|GoalDiff| + 1) \times 2.5$. Dominating a team 4-0 generates a much larger rating swing than squeaking out a 1-0 win.
+- **Post-Match Update**: Ratings are exchanged using a volatility factor of $K=32$ factoring in the margin: $R_{new} = R_{old} + K \times M \times (\text{Actual} - \text{Expected})$.
+- **Season Regression**: Off-season transfers and management changes heavily alter a squad. When a new season starts, every team's ELO experiences a 30% regression back to the league mean (1500) to account for these off-season equalization realities.
 
 ## Getting Started
 
