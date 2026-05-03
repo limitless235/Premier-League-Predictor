@@ -472,8 +472,7 @@ if __name__ == "__main__":
     print_top_6_finish(results, n_simulations=n_sims)
     print_season_summary(results, n_simulations=n_sims)
     
-    most_relegated_team = max(results['relegated_prob'].items(), key=lambda x: x[1])[0]
-    analyze_specific_team(most_relegated_team, results, n_sims)
+    analyze_specific_team("Tottenham", results, n_sims)
     
     results_df = pd.DataFrame({
         'Team': list(results['champion_prob'].keys()),
