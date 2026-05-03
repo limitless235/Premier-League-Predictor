@@ -2,31 +2,8 @@ import pandas as pd
 import numpy as np
 
 updates = """
-18/04/2026 12:30,Brentford,Fulham,0 - 0
-18/04/2026 15:00,Leeds,Wolves,3 - 0
-18/04/2026 15:00,Newcastle,Bournemouth,1 - 2
-18/04/2026 17:30,Spurs,Brighton,2 - 2
-18/04/2026 20:00,Chelsea,Man Utd,0 - 1
-19/04/2026 14:00,Aston Villa,Sunderland,4 - 3
-19/04/2026 14:00,Everton,Liverpool,1 - 2
-19/04/2026 14:00,Nott'm Forest,Burnley,4 - 1
-19/04/2026 16:30,Man City,Arsenal,2 - 1
-20/04/2026 20:00,Crystal Palace,West Ham,0 - 0
-21/04/2026 20:00,Brighton,Chelsea,3 - 0
-22/04/2026 20:00,Bournemouth,Leeds,2 - 2
-22/04/2026 20:00,Burnley,Man City,0 - 1
-24/04/2026 20:00,Sunderland,Nott'm Forest,0 - 5
-25/04/2026 12:30,Fulham,Aston Villa,1 - 0
-25/04/2026 15:00,Liverpool,Crystal Palace,3 - 1
-25/04/2026 15:00,West Ham,Everton,2 - 1
-25/04/2026 15:00,Wolves,Spurs,0 - 1
-25/04/2026 17:30,Arsenal,Newcastle,1 - 0
-27/04/2026 20:00,Man Utd,Brentford,2 - 1
-01/05/2026 20:00,Leeds,Burnley,3 - 1
-02/05/2026 15:00,Brentford,West Ham,3 - 0
-02/05/2026 15:00,Newcastle,Brighton,3 - 1
-02/05/2026 15:00,Wolves,Sunderland,1 - 1
-02/05/2026 17:30,Arsenal,Fulham,3 - 0
+03/05/2026 14:00,Bournemouth,Crystal Palace,3 - 0
+03/05/2026 15:30,Man Utd,Liverpool,3 - 2
 """
 
 name_map = {
@@ -67,4 +44,4 @@ for line in updates.strip().split('\n'):
         print(f"Warning: Match not found {home} vs {away}")
 
 df.to_csv('data/raw/season_2526.csv', index=False)
-print("Updated season_2526.csv")
+print("Updated season_2526.csv with today's matches")
