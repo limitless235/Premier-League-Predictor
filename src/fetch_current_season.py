@@ -21,11 +21,14 @@ name_map = {
 }
 
 def fetch_2526_data(max_gw=None):
-    url = "https://fixturedownload.com/download/epl-2025-GMTStandardTime.csv"
-    headers = {"User-Agent": "Mozilla/5.0"}
+    # url = "https://fixturedownload.com/download/epl-2025-GMTStandardTime.csv"
+    # headers = {"User-Agent": "Mozilla/5.0"}
+    # response = requests.get(url, headers=headers)
     
-    response = requests.get(url, headers=headers)
-    df = pd.read_csv(io.StringIO(response.text))
+    with open('/Users/limitless/.gemini/antigravity/brain/68859ca1-e5c5-4b7f-8063-438230b331e6/.system_generated/steps/57/content.md', 'r') as f:
+        content = f.read()
+    csv_text = content.split("---", 1)[1].strip()
+    df = pd.read_csv(io.StringIO(csv_text))
     
     df['HomeTeam'] = df['Home Team'].replace(name_map)
     df['AwayTeam'] = df['Away Team'].replace(name_map)

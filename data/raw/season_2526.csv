@@ -319,33 +319,33 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,is_fixture
 12/04/2026 14:00,Sunderland,Tottenham,1.0,0.0,H,2526,False
 12/04/2026 16:30,Chelsea,Manchester City,0.0,3.0,A,2526,False
 13/04/2026 20:00,Manchester United,Leeds,1.0,2.0,A,2526,False
-18/04/2026 12:30,Brentford,Fulham,,,,2526,True
-18/04/2026 15:00,Leeds,Wolverhampton Wanderers,,,,2526,True
-18/04/2026 15:00,Newcastle United,Bournemouth,,,,2526,True
-18/04/2026 17:30,Tottenham,Brighton,,,,2526,True
-18/04/2026 20:00,Chelsea,Manchester United,,,,2526,True
-19/04/2026 14:00,Aston Villa,Sunderland,,,,2526,True
-19/04/2026 14:00,Everton,Liverpool,,,,2526,True
-19/04/2026 14:00,Nottingham Forest,Burnley,,,,2526,True
-19/04/2026 16:30,Manchester City,Arsenal,,,,2526,True
-20/04/2026 20:00,Crystal Palace,West Ham,,,,2526,True
-21/04/2026 20:00,Brighton,Chelsea,,,,2526,True
-22/04/2026 20:00,Bournemouth,Leeds,,,,2526,True
-22/04/2026 20:00,Burnley,Manchester City,,,,2526,True
-24/04/2026 20:00,Sunderland,Nottingham Forest,,,,2526,True
-25/04/2026 12:30,Fulham,Aston Villa,,,,2526,True
-25/04/2026 15:00,Liverpool,Crystal Palace,,,,2526,True
-25/04/2026 15:00,West Ham,Everton,,,,2526,True
-25/04/2026 15:00,Wolverhampton Wanderers,Tottenham,,,,2526,True
-25/04/2026 17:30,Arsenal,Newcastle United,,,,2526,True
-27/04/2026 20:00,Manchester United,Brentford,,,,2526,True
-01/05/2026 20:00,Leeds,Burnley,,,,2526,True
+18/04/2026 12:30,Brentford,Fulham,0.0,0.0,D,2526,False
+18/04/2026 15:00,Leeds,Wolverhampton Wanderers,3.0,0.0,H,2526,False
+18/04/2026 15:00,Newcastle United,Bournemouth,1.0,2.0,A,2526,False
+18/04/2026 17:30,Tottenham,Brighton,2.0,2.0,D,2526,False
+18/04/2026 20:00,Chelsea,Manchester United,0.0,1.0,A,2526,False
+19/04/2026 14:00,Aston Villa,Sunderland,4.0,3.0,H,2526,False
+19/04/2026 14:00,Everton,Liverpool,1.0,2.0,A,2526,False
+19/04/2026 14:00,Nottingham Forest,Burnley,4.0,1.0,H,2526,False
+19/04/2026 16:30,Manchester City,Arsenal,2.0,1.0,H,2526,False
+20/04/2026 20:00,Crystal Palace,West Ham,0.0,0.0,D,2526,False
+21/04/2026 20:00,Brighton,Chelsea,3.0,0.0,H,2526,False
+22/04/2026 20:00,Bournemouth,Leeds,2.0,2.0,D,2526,False
+22/04/2026 20:00,Burnley,Manchester City,0.0,1.0,A,2526,False
+24/04/2026 20:00,Sunderland,Nottingham Forest,0.0,5.0,A,2526,False
+25/04/2026 12:30,Fulham,Aston Villa,1.0,0.0,H,2526,False
+25/04/2026 15:00,Liverpool,Crystal Palace,3.0,1.0,H,2526,False
+25/04/2026 15:00,West Ham,Everton,2.0,1.0,H,2526,False
+25/04/2026 15:00,Wolverhampton Wanderers,Tottenham,0.0,1.0,A,2526,False
+25/04/2026 17:30,Arsenal,Newcastle United,1.0,0.0,H,2526,False
+27/04/2026 20:00,Manchester United,Brentford,2.0,1.0,H,2526,False
+01/05/2026 20:00,Leeds,Burnley,3.0,1.0,H,2526,False
 02/05/2026 12:30,Aston Villa,Tottenham,,,,2526,True
 02/05/2026 15:00,Bournemouth,Crystal Palace,,,,2526,True
-02/05/2026 15:00,Brentford,West Ham,,,,2526,True
-02/05/2026 15:00,Newcastle United,Brighton,,,,2526,True
-02/05/2026 15:00,Wolverhampton Wanderers,Sunderland,,,,2526,True
-02/05/2026 17:30,Arsenal,Fulham,,,,2526,True
+02/05/2026 15:00,Brentford,West Ham,3.0,0.0,H,2526,False
+02/05/2026 15:00,Newcastle United,Brighton,3.0,1.0,H,2526,False
+02/05/2026 15:00,Wolverhampton Wanderers,Sunderland,1.0,1.0,D,2526,False
+02/05/2026 17:30,Arsenal,Fulham,3.0,0.0,H,2526,False
 03/05/2026 15:30,Manchester United,Liverpool,,,,2526,True
 04/05/2026 15:00,Chelsea,Nottingham Forest,,,,2526,True
 04/05/2026 20:00,Everton,Manchester City,,,,2526,True
