@@ -340,15 +340,15 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,is_fixture
 25/04/2026 17:30,Arsenal,Newcastle United,1.0,0.0,H,2526,False
 27/04/2026 20:00,Manchester United,Brentford,2.0,1.0,H,2526,False
 01/05/2026 20:00,Leeds,Burnley,3.0,1.0,H,2526,False
-02/05/2026 12:30,Aston Villa,Tottenham,,,,2526,True
+02/05/2026 12:30,Aston Villa,Tottenham,1.0,2.0,A,2526,False
 02/05/2026 15:00,Bournemouth,Crystal Palace,3.0,0.0,H,2526,False
 02/05/2026 15:00,Brentford,West Ham,3.0,0.0,H,2526,False
 02/05/2026 15:00,Newcastle United,Brighton,3.0,1.0,H,2526,False
 02/05/2026 15:00,Wolverhampton Wanderers,Sunderland,1.0,1.0,D,2526,False
 02/05/2026 17:30,Arsenal,Fulham,3.0,0.0,H,2526,False
 03/05/2026 15:30,Manchester United,Liverpool,3.0,2.0,H,2526,False
-04/05/2026 15:00,Chelsea,Nottingham Forest,,,,2526,True
-04/05/2026 20:00,Everton,Manchester City,,,,2526,True
+04/05/2026 15:00,Chelsea,Nottingham Forest,1.0,3.0,A,2526,False
+04/05/2026 20:00,Everton,Manchester City,3.0,3.0,D,2526,False
 09/05/2026 12:30,Liverpool,Chelsea,,,,2526,True
 09/05/2026 15:00,Brighton,Wolverhampton Wanderers,,,,2526,True
 09/05/2026 15:00,Burnley,Aston Villa,,,,2526,True

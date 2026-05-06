@@ -2,8 +2,9 @@ import pandas as pd
 import numpy as np
 
 updates = """
-03/05/2026 14:00,Bournemouth,Crystal Palace,3 - 0
-03/05/2026 15:30,Man Utd,Liverpool,3 - 2
+02/05/2026 12:30,Aston Villa,Tottenham,1 - 2
+04/05/2026 15:00,Chelsea,Nottingham Forest,1 - 3
+04/05/2026 20:00,Everton,Manchester City,3 - 3
 """
 
 name_map = {
@@ -18,6 +19,7 @@ name_map = {
 df = pd.read_csv('data/raw/season_2526.csv')
 
 for line in updates.strip().split('\n'):
+    if not line.strip(): continue
     date, home, away, res = line.split(',')
     home = name_map.get(home, home)
     away = name_map.get(away, away)
@@ -44,4 +46,4 @@ for line in updates.strip().split('\n'):
         print(f"Warning: Match not found {home} vs {away}")
 
 df.to_csv('data/raw/season_2526.csv', index=False)
-print("Updated season_2526.csv with today's matches")
+print("Updated season_2526.csv with the final matches of Gameweek 36")
